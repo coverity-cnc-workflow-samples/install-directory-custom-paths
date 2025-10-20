@@ -1,4 +1,4 @@
-# Coverity Build Scan                                                                                                                                                                                                        
+# Coverity Buildless Scan                                                                                                                                                                                                        
                                                                                                                                                                                                                                                    
 ## Details                                                                                                                                                                                                                                         
                                                                                                                                                                                              
